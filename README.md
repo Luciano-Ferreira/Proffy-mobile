@@ -5,4 +5,3 @@ aplicação mobile do proffy feita com react-native e Expo
 
 ![](proffymobiletest.gif)
 
-<img src="proffymobiletest.gif" height="700"/>
