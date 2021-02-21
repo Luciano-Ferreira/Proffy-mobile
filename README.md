@@ -1,6 +1,6 @@
 # Proffy-mobile
-<div style="text-align:center">
- <img src="proffymobiletest.gif" alt="demo"></img>
+<div>
+ <img style="text-align: center;" src="proffymobiletest.gif" alt="demo"></img>
  </div>
 
 ## :rocket: Tecnologias utilizadas
