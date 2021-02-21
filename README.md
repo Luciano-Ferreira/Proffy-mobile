@@ -3,6 +3,6 @@
 Proffy mobile app
 aplicação mobile do proffy feita com react-native e Expo
 
-![](proffymobiletest.gif | width="500")
+![](proffymobiletest.gif)
 
 <img src="proffymobiletest.gif" height="700"/>
